@@ -12,6 +12,7 @@ const Header = () => {
       background="rgb(249 250 251 / 1)"
       position="fixed"
       width="100%"
+      zIndex={100}
     >
       <Flex fontSize="2xl">
         <Text  fontWeight="bold" color="rgb(147 196 43 / 1)">

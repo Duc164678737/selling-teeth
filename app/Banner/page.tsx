@@ -6,7 +6,6 @@ import {
   Flex,
   FormControl,
   FormLabel,
-  IconButton,
   Input,
 } from "@chakra-ui/react";
 import React from "react";
